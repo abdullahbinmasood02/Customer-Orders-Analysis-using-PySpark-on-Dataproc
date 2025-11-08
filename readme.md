@@ -33,6 +33,7 @@ The goal is to clean, transform, and analyze the data to get actionable business
 - Found average spend per customer.
 - Determined order status grouped by customer.
 - Analyzed orders grouped and ordered by month.
+- Used Window Funtions (rank(), dense_rank() to rank customers by their order amount
 
 ---
 
